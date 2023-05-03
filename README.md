@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Ruikar</h1>
-<h3 align="center">A developer from India who loves to write code .</h3>
+<h3 align="center">A Guy form India who loves to write code .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketruikar1996&label=Profile%20views&color=0e75b6&style=flat" alt="sanketruikar1996" /> </p>
 
