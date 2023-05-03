@@ -5,7 +5,7 @@
 
 - 🔭 Languages [JAVA](https://dev.java/)
 
-- 🌱 I’m currently learning **Spring Framework.**
+- 🌱 I’m currently learning **Trying to deep dive in Automation..**
 
 - 💬 Ask me about **Java**
 
